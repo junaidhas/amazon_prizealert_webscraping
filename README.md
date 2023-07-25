@@ -1,5 +1,5 @@
 # amazon_prizealert_webscraping
-An automated Amazon product prize alert app using BeautifulSoup
+An automated Amazon product prize alert app using BeautifulSoup web scraping library
 
 -- Using the BeautifulSoup module, web scrape the Amazon product to find its current prize.
 -- Need to add headers"User-Agent" and "Accept-Language"
