@@ -1,9 +1,9 @@
 # amazon_prizealert_webscraping
 An Automated Amazon product prize alert app using BeautifulSoup web scraping library
 
--- Using the BeautifulSoup module, web scrape the Amazon product to find its current prize.
--- Need to add headers"User-Agent" and "Accept-Language"
--- U can find the header from https://myhttpheader.com/
+# Using the BeautifulSoup module, web scrape the Amazon product to find its current prize.
+# Need to add headers"User-Agent" and "Accept-Language"
+# U can find the header from https://myhttpheader.com/
 -- I was checking an Asics running shoe, Its current price is 69$ CA, 
 -- I cross-checked the shoe on camelcamelcamel.com website, 
 --  this shoe usually costs 100-130$ in the last 16 months
